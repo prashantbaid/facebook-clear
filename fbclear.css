@@ -1,0 +1,527 @@
+#home_sponsor_nile, #pagelet_netego_lower, #footerContainer, #pagelet_netego_requests, .numberContainer, .uiBubbleCount, #fbTranslationsNub, .buddyListTypeahead, #sideNav > form, .UIStandardFrame_SidebarAds, .WelcomePage_MainSellLeft, #gb_muffin_area, .badge_column, #fbPhotoTheaterEgo, #egoRefreshAds , .adsContainer, content.fb_content.clearfix , .mtm.locales, .feature.lfloat, #pagelet_ego_pane , #pagelet_netego_ads, #pagelet_netego, .uiHeaderSection, #contentCurve, .fbPhotosSideColumn , .ego_section, .uiWashLayout, .fbIndex .fb_logo.img, #rightCol{display: none !important;} 
+.loggedout_menubar_container, .fbIndex.lfloat { background-color: transparent !important}
+.uiHeaderPage {
+padding-top: 0px !important;  }
+.home_right_column {
+padding-top: 0px !important;
+}
+#navSearch {
+width: 300px !important; }
+#rightCol {
+float: left !important;
+margin-left: -181px !important;
+width: 179px !important;
+word-wrap: break word !important;
+position: absolute !important;
+bottom: 0px !important;
+}
+mhs.ptm.uiBoxWhite.topborder {
+padding-top : 0px !important; }
+.pts {
+padding-top:0.5px !important; }
+#pagelet_mutual {
+visibility: visible !important; 
+float: left !important;}
+img.fb_logo.img {
+width: 136px !important;
+height: 28.8px !important; 
+padding-right:  10px;
+}
+#home_stream .uiStreamStory, .uiStreamStory {
+width: 560px !important; 
+}
+
+#home_stream .uiUfi {
+    width: 460px !important;     
+}
+#pagelet_byline {
+font-size : 11px !important;
+}
+.profile .uiUfi {
+width: 440px !important; 
+}
+#sidebar_ads {
+visibility: hidden !important;
+}
+
+.UIImageBlock_Image .img, img.UIImageBlock_Image, i.UIImageBlock_Image {
+border-radius: 5px;
+	box-shadow: 1.5px 1.5px 1.5px #B3B3B3;
+-webkit-box-shadow:1.5px 1.5px 1.5px #B3B3B3 !important;
+}
+
+#pagelet_photo_bar {
+-webkit-box-reflect: below 2px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.8, transparent), to(rgba(255, 255, 255, 0.7)));
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 0px solid #666;
+}
+	
+#pagelet_wall {
+padding-top :40px !important; }
+
+#pagelet_profile_picture {
+	box-shadow: 1.5px 1.5px 1.5px #B3B3B3;
+-webkit-box-shadow:1.5px 1.5px 1.5px #B3B3B3 !important;
+border-radius: 8px !important;
+
+}
+
+.messageBody {
+font-size: 12px !important;
+}
+
+#pageHead {
+z-index: 15 !important;
+position: fixed !important;
+width: 750px !important;
+}
+
+#headNav.clearfix {
+	width: 600px !important;
+	-webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 18px !important;
+background: -webkit-gradient(linear, left top, left bottom, 
+                             from(#3B5998), to(#1D4088)) 
+							 
+							 }
+	
+.home #leftCol {
+position: static !important;
+
+}
+#blueBar.loggedOut{
+height: 100% !important;
+z-index: -1 !important; 
+background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.06, rgb(2,0,56)),
+    color-stop(1, rgb(0,31,92))
+)!important; }
+.menu_login_container #email { 
+	text-align: center !important;
+	box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px !important;
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px !important;
+	  margin: 0 auto;
+    border-radius: 4px 4px 4px 4px !important;
+
+    color: #00000 !important;
+    font-size:28px !important;
+    font-weight: bold !important;
+    line-height: 13px !important;
+    padding: 8px 9px !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2) !important;
+	text-align: right ;
+    width: 270px !important;
+	background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.42, rgb(240,237,245)),
+    color-stop(0.71, rgb(242,240,245)),
+    color-stop(0.86, rgb(245,245,245))
+);
+}
+.menu_login_container #pass {
+ text-align: center !important;
+box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px !important;
+	-webkit-box-shadow: rgba(0,0,0, 0.1) 0px 0px 8px !important;
+	  margin: 0 auto;
+    border-radius: 4px 4px 4px 4px !important;
+
+    color: #00000 !important;
+    font-size:28px !important;
+    font-weight: bold !important;
+    line-height: 13px !important;
+    padding: 8px 9px !important;
+    text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.2) !important;
+	text-align: right ;
+    width: 270px !important;
+	background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.42, rgb(240,237,245)),
+    color-stop(0.71, rgb(242,240,245)),
+    color-stop(0.86, rgb(245,245,245))
+);
+} 
+
+.fbIndex .rfloat{
+	background-image: url('http://i.imgur.com/4mJiu.png') !important; 
+	background-repeat: no-repeat !important;
+	background-position: 20% 32% !important;
+    text-align: center !important;
+	padding-top: 270px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+	width: 100% !important;
+	float: none !important;
+
+}
+.fbIndex .uiButtonConfirm, .fbIndex .uiButton { 	 text-align: center !important;
+	 	width: auto !important;
+	padding: 14px 28px !important;
+	background: #3B5998 !important;
+	color: #FFFFFF !important;
+	-webkit-border-radius: 5px !important;
+	    font-size: 28px !important;
+    font-weight: bold !important;
+    line-height: 13px !important;
+	}
+ #globalContainer {
+width: 780px !important;
+} 
+
+#blueBar {
+z-index: 14 !important; 
+position: fixed !important;
+border-bottom: 1px solid black !important;
+-webkit-box-shadow: rgba(0, 0, 0, 0.4) 0px 1px 18px !important;
+background: -webkit-gradient(linear, left top, left bottom, 
+                             from(#3B5998), to(#1D4088))
+}
+#pageLogo a {
+background-color: transparent !important;
+}
+.profileFriendsText {
+text-shadow: rgba(0, 0, 0, 0.2) 0px 1px 18px !important; }
+
+#content {
+padding-top:40px !important;
+}
+
+.uiComposerTopBorder {
+    border-top-color: #ccc !important;
+    width: 520px !important;
+}
+
+.profile #content {
+border-right: 1px solid #ddd !important;
+}
+.UIComposer .UIComposer_Box {
+border: none !important;
+background: #ffffff !important; 
+padding: 15px 0px 7px !important;
+}
+
+
+#profile_top_bar {
+width: 500px !important;
+}
+
+.profile_two_columns .left_column {
+margin-left: -1px !important;
+}
+
+.profile .profile_top_wash {
+border-left: 1px solid #d8dfea !important;
+}
+
+.UIStream_Border {
+border-top: 0px !important;
+}
+.fbPhotosReorderableGrid .dragWrapper, .fbPhotosReorderableGrid .dragWrapper .uiMediaThumb {
+border-radius: 3px !important;
+	box-shadow: 1px 1px 1px #B3B3B3;
+-webkit-box-shadow:1px 1px 1px #B3B3B3 !important;}
+.home #leftCol {
+position: fixed;
+}
+
+#feedwall_controls_wrapper.show_advanced_options_link .advanced_controls_link {
+margin-right: 10px !important;
+opacity: 0.5 !important;
+}
+
+#feedwall_controls_wrapper.show_advanced_options_link .advanced_controls_link:hover {
+opacity: 1 !important;
+}
+
+.UIComposer_InputArea {
+border-radius: 3px !important;
+border: 1px solid #ccc !important;
+padding: 5px !important;
+}
+
+.UIComposer_InputShadow {
+border-top: 0px !important;
+}
+
+UIComposer_InputShadow > div {
+background-color: transparent !important;
+}
+
+.ego_page .UIStandardFrame_Content, .profile .right_column_container {
+width: 750px !important;
+}
+
+.profile-picture
+{
+border-left: 1px solid #ddd !important;
+box-shadow: 2px 2px 2px #B3B3B3;
+-webkit-box-shadow:2px 2px 2px #B3B3B3 !important;
+width: 255 px !important;
+}
+.uiListVerticalItemBorder {
+border-radius: 5px !important;
+}
+.uiUfi .ufiItem{
+border-radius: 5px !important;
+}
+#contentCurve {
+border-bottom: 1px solid #ddd !important;
+}
+
+.profile .box {
+border-top: 1px solid #CFD7E8 !important;
+}
+
+.profile .box_column {
+border-bottom: 1px solid #CFD7E8 !important;
+}
+
+.uiStream .hideButton, .uiStream .hideSelector, .uiSelectorRight {
+margin-right: 0px !important;
+}
+
+.uiStreamStory {
+padding-right: 5px !important;
+}
+
+#gigaboxx_wrapper, #gb_content_and_toolbar {
+width: 550px !important;
+}
+
+.thread_detail {
+width: 275px !important;
+display: block !important;
+overflow: hidden !important;
+padding-top: 10px !important;
+}
+
+.GBThreadRow {
+height: 65px !important;
+}
+
+.GBThreadRow .icon {
+padding-top: 5px !important;
+}
+
+.GBThreadRow .checkbox {
+opacity: 0.4 !important;
+}
+
+.GBThreadRow .checkbox:hover {
+opacity: 1 !important;
+}
+
+#pagelet_ads {
+display: none !important;
+}
+
+.photo_table {
+width: 748px !important;
+border: 1px solid #d8dfea !important;
+}
+
+.profile .right_column {
+float: left !important;
+}
+
+.UIPhotoGrid_Container {
+padding-left: 10px !important;
+}
+
+
+.tab_content .creation_buttons {
+width: 740px !important;
+}
+
+.profile .photos_tab .photos_tab_header {
+width: 730px !important;
+}
+
+#feedwall_with_composer, .profile_two_columns #tab_canvas {
+margin-left: 10px !important;
+}
+
+.home #pagelet_composer {
+margin-left: 10px !important;
+}
+
+.UIStandardFrame_Container {
+    width: 750px !important;
+}
+
+#pageFooter {
+    width: 570px !important;
+}
+
+.profile .left_column_container {
+    width: 600px !important;
+}
+
+
+
+.uiStreamMessage .messageBody {
+    line-height: 140% !important;
+}
+
+#pagelet_eventbox input.event_name, .UIUpcoming_Item .UIUpcoming_NameAndTime {
+    width: 160px !important;
+}
+.uiHeaderActions.rfloat.fsl.fwb.fcb {
+float: right !important;
+}
+.ego_column {
+    width: 179px !important;
+}
+
+#pagelet_netego_pokes .uiHeaderTitle {
+    background-color: transparent !important;
+    width: 179px !important;
+    margin-left: 16px !important;
+    
+}
+
+#pagelet_netego_pokes .phs {
+    margin-top: 10px !important;
+}
+
+ #pagelet_netego_pokes .uiHeader {
+background: url(http://b.static.ak.fbcdn.net/rsrc.php/zS/r/SoE4jDlkVx3.png) no-repeat -40px -146px !important;
+width: 6px !important;
+height: 10px !important;
+overflow: visible !important; 
+margin: 15px 0px 0px 6px !important;
+border-top: 0px solid #E2E2E2 !important;
+padding-top: 0px !important;
+} 
+
+#pagelet_netego_pokes .uiHeaderTitle {
+    border-top: 1px solid #E2E2E2 !important; 
+    margin-left: -10px !important;
+    padding-left: 26px !important;   
+    padding-top: 8px !important;
+    width: 152px !important;
+    margin-top: -8px !important;
+    position: absolute !important;
+    font-weight: normal !important;
+}
+.groupProfileHeaderWash {
+width: 0px !important;
+}
+#jewelBoxNotif {
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 0px solid #666;
+	box-shadow: 2px 2px 2px #B3B3B3;
+-webkit-box-shadow:2px 2px 2px #B3B3B3 !important;}
+#jewelBoxMail {
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 0px solid #666;
+	box-shadow: 2px 2px 2px #B3B3B3;
+-webkit-box-shadow:2px 2px 2px #B3B3B3 !important;}
+#jewelBoxRequest {
+	-webkit-border-radius: 3px;
+	border-radius: 3px;
+	border: 0px solid #666;
+	box-shadow: 2px 2px 2px #B3B3B3;
+-webkit-box-shadow:2px 2px 2px #B3B3B3 !important;}
+
+
+.usr-enabled {
+    display: none !important;
+}
+
+#groupSideNavWrapper .uiHeaderNavEmpty {
+    padding-top: 2px !important;
+}
+
+.UIUpcoming_NameAndTime a.prs {
+    font-size: 10px !important;
+}
+
+#navSearch .uiSearchInput input {
+    width: 265px !important;
+}
+
+.hasLeftCol #headerArea {
+    width: 520px !important;
+}
+
+
+
+body #pagelet_byline.visible {
+    display: block !important;
+}
+
+.uiStreamStory .uiStreamAttachments {
+    width: 440px !important;
+}
+
+body .uiStreamMinistoryGroup .uiStreamStory {
+    width: 440px !important;
+}
+
+
+#photo_container {
+	-webkit-box-reflect: below 4px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.9, transparent), to(rgba(255, 255, 255, 0.5)));
+	-webkit-border-radius: 1px;
+	border-radius: 1px;
+	border: 1px solid #666; 
+box-shadow: 3px 3px 3px #B3B3B3;
+-webkit-box-shadow:3px 3px 3px #B3B3B3 !important;
+	}
+#photoborder {
+background: white !important;
+margin: 0px !important;
+position: relative !important;
+align: center !important;
+}
+#photoborder.clearfix{
+position:relative !important;
+}
+#photocomment {
+position: relative !important;
+}
+#photocaption_parent {
+padding-top: 100px !important;
+}
+#photoinalbum {
+padding-top: 210px !important; 
+text-align: left !important;
+position: relative !important;
+}
+#phototags {
+padding-bottom: 1px !important;
+}
+img.spotlight {
+	-webkit-box-reflect: below 4px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(.9, transparent), to(rgba(255, 255, 255, 0.5)));
+}
+.stageBackdrop { 
+	padding-bottom: 500px !important;
+	border-color: transparent !important;
+	background: transparent !important;
+}
+.fbPhotoTheater .photoInfo {
+background-image: -webkit-gradient(
+    linear,
+    left bottom,
+    left top,
+    color-stop(0.47, rgb(245,245,245)),
+    color-stop(0.74, rgb(240,240,240))
+) !important;
+border: transparent !important;
+}
+.uiGrid.fbPhotoTheaterGrid.photoInfo {
+border-radius: 8px !important;
+}
+.fbPhotoTheater.fbPhotoTheater {
+background: rgba(0, 0, 0, .9) !important;
+}
+#pageNav a:hover {outline:none !important;
+background-color:#3B5998 !important;}
