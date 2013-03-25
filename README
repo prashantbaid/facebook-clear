@@ -1,0 +1,11 @@
+ a facebook extension that removes all the ads, makes the user interface better and some other tweaks here and there to make the user experience better. It also makes the ugly new photo viewer a lot prettier. 
+
+Some details about the extension:
+
+It removes all the ads
+Makes the navbar fixed at the top, just like twitter for better navigation so that you don't have to go up everytime you need to check notifications, inbox or profile.
+Adds reflection effects to pictures using CSS3, hence making the viewing experience better.
+Makes the photo thumbnails round, like the iPhone icons.
+Makes the ugly new photo viewer a lot prettier.
+Makes facebook overall faster.
+And a user experience that is a lot better than the original interface/stylesheet.
